@@ -1,0 +1,548 @@
+header {
+    background-image: linear-gradient(125deg,
+            hsl(228deg 100% 17%) 13%,
+            hsl(228deg 100% 19%) 40%,
+            hsl(228deg 100% 21%) 47%,
+            hsl(228deg 100% 23%) 49%,
+            hsl(228deg 100% 24%) 50%,
+            hsl(228deg 100% 26%) 50%,
+            hsl(228deg 100% 27%) 50%,
+            hsl(228deg 100% 28%) 50%,
+            hsl(228deg 100% 30%) 50%,
+            hsl(228deg 100% 31%) 51%,
+            hsl(228deg 100% 32%) 53%,
+            hsl(228deg 100% 33%) 60%,
+            hsl(228deg 100% 34%) 87%);
+    color: #ffffff;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(60deg,
+            hsl(189deg 90% 46%) 13%,
+            hsl(190deg 75% 54%) 40%,
+            hsl(190deg 76% 58%) 47%,
+            hsl(190deg 76% 61%) 49%,
+            hsl(190deg 77% 64%) 50%,
+            hsl(190deg 79% 67%) 50%,
+            hsl(190deg 80% 69%) 50%,
+            hsl(190deg 83% 71%) 50%,
+            hsl(190deg 85% 73%) 50%,
+            hsl(190deg 88% 75%) 51%,
+            hsl(189deg 91% 77%) 53%,
+            hsl(189deg 95% 79%) 60%,
+            hsl(189deg 100% 81%) 87%);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+}
+
+.tweet-post {
+    width: fit-content;
+    margin-left: 12%;
+    margin-right: auto;
+    margin-top: -5%;
+    display: flex;
+    width: 50%;
+}
+
+
+header {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    display: flex;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    width: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+footer {
+    background-image: linear-gradient(125deg,
+            hsl(228deg 100% 17%) 13%,
+            hsl(228deg 100% 19%) 40%,
+            hsl(228deg 100% 21%) 47%,
+            hsl(228deg 100% 23%) 49%,
+            hsl(228deg 100% 24%) 50%,
+            hsl(228deg 100% 26%) 50%,
+            hsl(228deg 100% 27%) 50%,
+            hsl(228deg 100% 28%) 50%,
+            hsl(228deg 100% 30%) 50%,
+            hsl(228deg 100% 31%) 51%,
+            hsl(228deg 100% 32%) 53%,
+            hsl(228deg 100% 33%) 60%,
+            hsl(228deg 100% 34%) 87%);
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.ai {
+    width: 800px;
+    margin-left: 23%;
+    margin-right: auto;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+footer .socials {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding: 10px;
+}
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 3%;
+    font-size: 75px;
+    width: fit-content;
+    font-weight: normal;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+
+.socials {
+    display: flex;
+    margin-left: auto;
+    margin-right: 3%;
+    margin-top: 0.5%;
+    padding: auto;
+}
+
+.welcome {}
+
+.gallery {
+    display: flex;
+}
+
+.image-post {
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: 10%;
+    width: fit-content;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #ffffff;
+    height: fit-content;
+    background-color: white;
+}
+
+.image-post h1 {
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.image-post-image {
+    width: 600px;
+    border-radius: 15px;
+}
+
+.buybutton {
+    margin-right: 0%;
+    margin-left: 10%;
+    height: 70%;
+    width: 280px;
+    /* Fixed width */
+    padding: 20px;
+    font-family: "TT Marks Rough Black";
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+}
+
+.welcome_wrapper {
+    margin-top: 7%;
+    margin-left: 12%;
+    width: 40%;
+    padding: 10px;
+    color: rgb(5, 5, 5);
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.welcome_wrapper h2 {
+    font-weight: normal;
+}
+
+.welcome_img {
+    display: flex;
+    width: 28%;
+    margin-left: auto;
+    margin-right: 16%;
+}
+
+.welcome_main {
+    display: flex;
+    font-weight: normal;
+}
+
+
+.main2 {
+    position: relative;
+    background-image: linear-gradient(125deg,
+            hsl(189deg 90% 46%) 13%,
+            hsl(190deg 75% 54%) 40%,
+            hsl(190deg 76% 58%) 47%,
+            hsl(190deg 76% 61%) 49%,
+            hsl(190deg 77% 64%) 50%,
+            hsl(190deg 79% 67%) 50%,
+            hsl(190deg 80% 69%) 50%,
+            hsl(190deg 83% 71%) 50%,
+            hsl(190deg 85% 73%) 50%,
+            hsl(190deg 88% 75%) 51%,
+            hsl(189deg 91% 77%) 53%,
+            hsl(189deg 95% 79%) 60%,
+            hsl(189deg 100% 81%) 87%);
+}
+
+.main2 h2 {
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    margin-left: 5%;
+    font-weight: normal;
+}
+
+.main2 h3 {
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    margin-left: 5%;
+    font-weight: normal;
+}
+
+/* Container to hold the sliding text */
+.slide-container {
+    position: relative;
+    background-color: #b6ec77;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+/* Text to slide in a cyclic manner */
+.slide-text {
+    display: inline-block;
+    white-space: nowrap;
+    animation: slide 15s linear infinite;
+}
+
+/* Keyframes to move text in a loop */
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+/* Duplicating the text for seamless effect */
+.slide-container .inner {
+    display: flex;
+}
+
+
+footer {
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+}
+
+.tokenomics-section {
+    display: block;
+    background-color: #000000;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(255, 209, 23);
+    border-width: 7px;
+}
+
+
+.tokenomics-section h1 {
+    font-size: 50px;
+    color: #d4cfcf;
+    margin-bottom: 20px;
+}
+
+.tokenomics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tokenomics-item {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-style: dashed;
+    border-color: rgb(255, 209, 23);
+    border-width: 1px;
+}
+
+.tokenomics-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.tokenomics-item h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.tokenomics-item p {
+    font-size: 22px;
+}
+
+.tokenomics-item p.emoji {
+    margin-top: 0%;
+    font-size: 75px;
+    margin-bottom: 0%;
+}
+
+.main2 .main2img {
+    position: absolute;
+    /* Position the image absolutely inside the container */
+    left: 0;
+    /* You can adjust these values */
+    bottom: 0;
+    width: 12%;
+    /* filter: opacity(50%); */
+}
+
+.main2 .main3img {
+    position: absolute;
+    /* Position the image absolutely inside the container */
+    right: 0;
+    /* You can adjust these values */
+    bottom: 0;
+    width: 12%;
+    /* filter: opacity(50%); */
+}
+
+.main2 .main4img {
+    position: relative;
+    /* Position the image absolutely inside the container */
+    right: 0;
+    /* You can adjust these values */
+    bottom: 0;
+    width: 12%;
+    /* filter: opacity(50%); */
+}
+
+.mobile1 {
+    display: none;
+}
+
+@media (max-width: 1000px) {
+
+
+    header h1 {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 3%;
+        font-size: 30px;
+        width: fit-content;
+        font-weight: normal;
+        display: none;
+    }
+
+    .buybutton {
+        display: none;
+    }
+
+    .socials {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .main {
+        display: block;
+    }
+
+    .welcome_main {
+        display: block;
+    }
+
+    .welcome_wrapper {
+        width: 80%;
+    }
+
+    .welcome_wrapper h2 {
+        font-weight: normal;
+        font-size: 20px;
+    }
+
+    .welcome_img {
+        margin-left: 0%;
+        margin-right: 15%;
+        width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mobile1 {
+        display: block;
+    }
+
+    .mobile1 h1 {
+        font-size: 40px;
+    }
+
+    .gallery {
+        display: block;
+    }
+
+    .tweet-post {
+        width: fit-content;
+        margin-left: 12%;
+        margin-right: auto;
+        margin-top: -5%;
+        display: block;
+        width: 74%;
+    }
+
+    .image-post {
+        margin-top: 7%;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: solid;
+        border-radius: 20px;
+        border-width: 5px;
+        border-color: #ffffff;
+        height: fit-content;
+        background-color: white;
+        width: 72%;
+        margin-bottom: 2%;
+    }
+
+    .image-post h1 {
+        font-weight: normal;
+        font-size: 15px;
+        text-align: center;
+        color: #000000;
+        width: 100%;
+    }
+
+    .image-post-image {
+        border-radius: 15px;
+        width: 100%;
+    }
+
+    .eee {
+        display: none;
+    }
+
+    .main2 h2 {
+        color: rgb(255, 255, 255);
+        font-size: 40px;
+        margin-left: 5%;
+        font-weight: normal;
+    }
+
+    .main2 h3 {
+        color: rgb(0, 0, 0);
+        font-size: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-weight: normal;
+    }
+
+    .tokenomics-section {
+        display: block;
+        background-color: #000000;
+        margin: 50px auto;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        border-style: dashed;
+        border-color: rgb(255, 209, 23);
+        border-width: 7px;
+        width: 55%;
+    }
+    .toko2{
+        width: 85%;
+    }
+
+    .tokenomics-section h1 {
+        font-size: 50px;
+        color: #d4cfcf;
+        margin-bottom: 20px;
+    }
+
+    .tokenomics-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .tokenomics-item {
+        background-color: #000000;
+        color: white;
+        padding: 20px;
+        border-radius: 8px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-style: dashed;
+        border-color: rgb(255, 209, 23);
+        border-width: 1px;
+    }
+
+    .tokenomics-item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .tokenomics-item h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .tokenomics-item p {
+        font-size: 22px;
+    }
+
+    .tokenomics-item p.emoji {
+        margin-top: 0%;
+        font-size: 75px;
+        margin-bottom: 0%;
+    }
+    .tokenomics-grid .mobca{
+        font-size: 8px;
+    }
+
+    .ai{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+}
